@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MyApp
+Exec=qmakeProj
+Icon=icon
+Type=Application
+Categories=Utility;
